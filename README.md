@@ -10,9 +10,7 @@ i've got a bit of experience with programming, trying to learn more
 ### what is this place
 - github i think
 
-other than that, i do stuff here
-
-### what kinds of stuff
+### what do you do
 - mostly modding stuff
 - maybe some experiments
 - or any random shit i want to put on here because why not
